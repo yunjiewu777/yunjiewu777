@@ -1,5 +1,5 @@
 ### Hi 👋
 
-I am a senior undergraduate student at Emory University. I double major in Computer Science and Quantitative Science with Psychology tract. In the future, I plan to pursue my career as a machine learning engineer in fields like public health to make advanced techniques more accessible to health researchers and policymakers.
+I am an incoming student in the Master of Computational Data Science at Carnegie Mellon University. I am currently interested in computer systems and may pursue system track for the program.
 
-I'm currently collaborating with Prof. Joyce Ho and Prof. Emily Wall on research at the intersection of machine learning, information visualization and healthcare.
+I conducted my undergraduate study at Emory University, where I double majored in Computer Science and Quantitative Science with Psychology tract, and had the chance to collaborate with Prof. Joyce Ho and Prof. Emily Wall on research at the intersection of machine learning, information visualization, and healthcare.
